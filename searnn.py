@@ -446,7 +446,10 @@ def decode_rollout_map(rollout_mask, rollout_data, rollout_costs, target_noise_s
     target_labels = compute_argmax_masked(-losses, mask)
     target_labels = target_labels.view(rollout_mask.size(0), rollout_mask.size(1))
     # pad with EOS symbol if provided
-    target_labels.masked_fill_(cell_mask.data == 0, eos)
+    # import pdb
+    # pdb.set_trace()
+    
+    target_labels.masked_fill_(Variable(cell_mask.data == 0), eos)
     target_labels = target_labels.unsqueeze(2)
 
     return cost_tensor, target_labels, cell_mask

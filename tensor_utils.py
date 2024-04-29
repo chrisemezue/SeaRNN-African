@@ -68,7 +68,16 @@ def sync_dim_size(a, b, dim, pad_value_a, pad_value_b=None):
 
 def compute_argmax_masked(scores, mask):
     scores_for_max = scores.clone()
-    scores_for_max.masked_fill_(mask == 0, float("-inf"))
+    try:
+        masked_variable = Variable(mask == 0)
+    except RuntimeError as err:
+        # import pdb
+        # pdb.set_trace()
+        masked_variable = mask == 0
+
+        
+    scores_for_max.masked_fill_(masked_variable, float(-1e35))
+
     _, max_pos = torch.max(scores_for_max, 1, keepdim=True)
     return max_pos
 
