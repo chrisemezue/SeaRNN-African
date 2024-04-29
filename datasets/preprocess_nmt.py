@@ -58,6 +58,7 @@ def make_vocabulary(filename, size):
             for word in sent.split():
                 vocab.add(word)
 
+    #breakpoint()
     original_size = vocab.size()
     vocab = vocab.prune(size)
     print('Created dictionary of size %d (pruned from %d)' %

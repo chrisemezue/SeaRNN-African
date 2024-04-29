@@ -102,8 +102,11 @@ class Dict(object):
         for i in self.special:
             new_dict.add_special(self.idx_to_label[i])
 
+
         for i in idx[:size]:
-            new_dict.add(self.idx_to_label[i])
+            #breakpoint()
+            new_dict.add(self.idx_to_label[i.item()])
+        #breakpoint()
 
         return new_dict
 
