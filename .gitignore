@@ -7,4 +7,5 @@ nmt/*
 build/*
 UNKNOWN.egg-info/*
 cython/*
-evaluation/__pycache__/*
+cython/*.c
+evaluation/__pycache__/*.cyc
