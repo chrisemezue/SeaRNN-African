@@ -9,4 +9,4 @@ cd /home/mila/c/chris.emezue/SeaRNN-African
 # Start training
 bash scripts/training.sh en ibo
 # bash scripts/training.sh fr bbj
-# bash scripts/training.sh fr ewe
+# bash scripts/training.sh fr ewe mle

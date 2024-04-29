@@ -139,7 +139,7 @@ parser.add_argument('--lr_quantity_smoothness', default=0, type=int,
 parser.add_argument('--log_path', type=str, default='', help='Where to store results and models (default: do not save)')
 parser.add_argument('--print_iter', type=int, default=10, help='Print after this number of steps')
 parser.add_argument('--eval_iter', type=int, default=200, help='Evaluate after this number of steps')
-parser.add_argument('--save_iter', type=int, default=1000, help='Save models at these iterations')
+parser.add_argument('--save_iter', type=int, default=10000, help='Save models at these iterations')
 parser.add_argument('--eval_size', type=int, default=10000, help='Max number of items for intermediate evaluations')
 
 # misc
