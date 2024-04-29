@@ -1,7 +1,10 @@
 *.so
 */__pycache__/*
+*/*__pycache__/*
 __pycache__/*
 nmt.zip
 nmt/*
 build/*
 UNKNOWN.egg-info/*
+cython/*
+evaluation/__pycache__/*
