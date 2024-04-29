@@ -15,9 +15,9 @@ echo $tgt
 echo $type
 echo '####################'
 
-MAX_ITER=20000
+MAX_ITER=25000
 
-if [ $(type) = 'mle' ]; then
+if [ $type = 'mle' ]; then
     echo 'mle training'
 
     # Train MLE with dropout
