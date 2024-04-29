@@ -15,7 +15,7 @@ echo $tgt
 echo $type
 echo '####################'
 
-MAX_ITER=10000
+MAX_ITER=20000
 
 if [ $(type) = 'mle' ]; then
     echo 'mle training'
