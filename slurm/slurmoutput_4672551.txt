@@ -17247,3 +17247,13 @@ Iter 16363 of 25000, epoch 155, time: 1077m 14s (- 568m 30s), obj: 0.0909, grad:
 Iter 16364 of 25000, epoch 155, time: 1077m 17s (- 568m 26s), obj: 0.1342, grad: 0.3152
 Iter 16365 of 25000, epoch 155, time: 1077m 21s (- 568m 22s), obj: 0.1652, grad: 0.2591
 Iter 16366 of 25000, epoch 155, time: 1077m 25s (- 568m 18s), obj: 0.0594, grad: 0.2084
+Iter 16367 of 25000, epoch 155, time: 1077m 29s (- 568m 14s), obj: 0.1573, grad: 0.3476
+Iter 16368 of 25000, epoch 155, time: 1077m 32s (- 568m 10s), obj: 0.1506, grad: 0.2650
+Iter 16369 of 25000, epoch 155, time: 1077m 36s (- 568m 5s), obj: 0.0619, grad: 0.2119
+Iter 16370 of 25000, epoch 155, time: 1077m 40s (- 568m 1s), obj: 0.0470, grad: 0.1587
+Iter 16371 of 25000, epoch 155, time: 1077m 44s (- 567m 58s), obj: 0.0976, grad: 0.2146
+Iter 16372 of 25000, epoch 155, time: 1077m 48s (- 567m 54s), obj: 0.1173, grad: 0.2451
+Iter 16373 of 25000, epoch 155, time: 1077m 52s (- 567m 50s), obj: 0.1496, grad: 0.3500
+Iter 16374 of 25000, epoch 155, time: 1077m 55s (- 567m 45s), obj: 0.0549, grad: 0.2281
+Iter 16375 of 25000, epoch 155, time: 1077m 59s (- 567m 41s), obj: 0.1369, grad: 0.3088
+Iter 16376 of 25000, epoch 155, time: 1078m 3s (- 567m 37s), obj: 0.2439, grad: 0.3430

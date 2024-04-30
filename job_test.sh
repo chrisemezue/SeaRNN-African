@@ -18,5 +18,6 @@ export PYTHONUNBUFFERED=1
 cd /home/mila/c/chris.emezue/SeaRNN-African
 # Start training
 bash scripts/test.sh $1 $2 $3
-# bash scripts/training.sh fr bbj
-# bash scripts/training.sh fr ewe mle
+
+# To run file
+#bash job_test.sh en ibo mle

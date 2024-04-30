@@ -25784,3 +25784,20 @@ Iter 24494 of 25000, epoch 766, time: 1111m 4s (- 22m 54s), obj: 0.0032, grad: 0
 Iter 24495 of 25000, epoch 766, time: 1111m 7s (- 22m 51s), obj: 0.0021, grad: 0.0052
 Iter 24496 of 25000, epoch 766, time: 1111m 9s (- 22m 48s), obj: 0.0019, grad: 0.0047
 Iter 24497 of 25000, epoch 766, time: 1111m 12s (- 22m 46s), obj: 0.0044, grad: 0.0259
+Iter 24498 of 25000, epoch 766, time: 1111m 15s (- 22m 43s), obj: 0.0037, grad: 0.0083
+Iter 24499 of 25000, epoch 766, time: 1111m 18s (- 22m 40s), obj: 0.0023, grad: 0.0083
+Evaluation on nmt-train: 1500 items, 26362 tokens
+Hamming = 0.0000, Seq = 0.0000, Log loss = 0.0822, Train loss (bleu-smoothed): 0.0000, BLEU = 1.0000, Eval time: 2.0s
+Evaluation on nmt-valid: 1406 items, 25309 tokens
+Hamming = 1.1038, Seq = 1.0000, Log loss = 0.1636, Train loss (bleu-smoothed): 0.9490, BLEU = 0.0015, Eval time: 1.8s
+Saving checkpoint /home/mila/c/chris.emezue/scratch/searnn-output/fr-ewe-l2s/checkpoint_iter_24500.pth
+Iter 24500 of 25000, epoch 766, time: 1111m 25s (- 22m 38s), obj: 0.0022, grad: 0.0028
+Iter 24501 of 25000, epoch 766, time: 1111m 27s (- 22m 35s), obj: 0.0039, grad: 0.0173
+Iter 24502 of 25000, epoch 766, time: 1111m 30s (- 22m 32s), obj: 0.0026, grad: 0.0174
+Iter 24503 of 25000, epoch 766, time: 1111m 33s (- 22m 29s), obj: 0.0024, grad: 0.0051
+Iter 24504 of 25000, epoch 766, time: 1111m 36s (- 22m 27s), obj: 0.0049, grad: 0.0329
+Iter 24505 of 25000, epoch 766, time: 1111m 39s (- 22m 24s), obj: 0.0055, grad: 0.2055
+Iter 24506 of 25000, epoch 766, time: 1111m 41s (- 22m 21s), obj: 0.0012, grad: 0.0014
+Iter 24507 of 25000, epoch 766, time: 1111m 44s (- 22m 19s), obj: 0.0046, grad: 0.0151
+Iter 24508 of 25000, epoch 766, time: 1111m 47s (- 22m 16s), obj: 0.0019, grad: 0.0051
+Iter 24509 of 25000, epoch 766, time: 1111m 50s (- 22m 13s), obj: 0.0022, grad: 0.0132
