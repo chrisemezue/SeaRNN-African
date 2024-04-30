@@ -25801,3 +25801,563 @@ Iter 24506 of 25000, epoch 766, time: 1111m 41s (- 22m 21s), obj: 0.0012, grad: 
 Iter 24507 of 25000, epoch 766, time: 1111m 44s (- 22m 19s), obj: 0.0046, grad: 0.0151
 Iter 24508 of 25000, epoch 766, time: 1111m 47s (- 22m 16s), obj: 0.0019, grad: 0.0051
 Iter 24509 of 25000, epoch 766, time: 1111m 50s (- 22m 13s), obj: 0.0022, grad: 0.0132
+Iter 24510 of 25000, epoch 766, time: 1111m 52s (- 22m 10s), obj: 0.0027, grad: 0.0091
+Iter 24511 of 25000, epoch 766, time: 1111m 55s (- 22m 8s), obj: 0.0073, grad: 0.0110
+Iter 24512 of 25000, epoch 767, time: 1111m 59s (- 22m 5s), obj: 0.0057, grad: 0.0217
+Iter 24513 of 25000, epoch 767, time: 1112m 2s (- 22m 2s), obj: 0.0042, grad: 0.0059
+Iter 24514 of 25000, epoch 767, time: 1112m 4s (- 22m 0s), obj: 0.0044, grad: 0.0196
+Iter 24515 of 25000, epoch 767, time: 1112m 7s (- 21m 57s), obj: 0.0017, grad: 0.0076
+Iter 24516 of 25000, epoch 767, time: 1112m 7s (- 21m 54s), obj: 0.0042, grad: 0.0098
+Iter 24517 of 25000, epoch 767, time: 1112m 10s (- 21m 51s), obj: 0.0021, grad: 0.0051
+Iter 24518 of 25000, epoch 767, time: 1112m 13s (- 21m 49s), obj: 0.0062, grad: 0.0151
+Iter 24519 of 25000, epoch 767, time: 1112m 15s (- 21m 46s), obj: 0.0030, grad: 0.0173
+Iter 24520 of 25000, epoch 767, time: 1112m 18s (- 21m 43s), obj: 0.0033, grad: 0.0048
+Iter 24521 of 25000, epoch 767, time: 1112m 21s (- 21m 40s), obj: 0.0036, grad: 0.0607
+Iter 24522 of 25000, epoch 767, time: 1112m 24s (- 21m 38s), obj: 0.0034, grad: 0.0070
+Iter 24523 of 25000, epoch 767, time: 1112m 26s (- 21m 35s), obj: 0.0026, grad: 0.0138
+Iter 24524 of 25000, epoch 767, time: 1112m 29s (- 21m 32s), obj: 0.0040, grad: 0.0146
+Iter 24525 of 25000, epoch 767, time: 1112m 32s (- 21m 30s), obj: 0.0033, grad: 0.0122
+Iter 24526 of 25000, epoch 767, time: 1112m 35s (- 21m 27s), obj: 0.0021, grad: 0.0107
+Iter 24527 of 25000, epoch 767, time: 1112m 38s (- 21m 24s), obj: 0.0022, grad: 0.0157
+Iter 24528 of 25000, epoch 767, time: 1112m 41s (- 21m 21s), obj: 0.0035, grad: 0.0242
+Iter 24529 of 25000, epoch 767, time: 1112m 43s (- 21m 19s), obj: 0.0026, grad: 0.0589
+Iter 24530 of 25000, epoch 767, time: 1112m 46s (- 21m 16s), obj: 0.0031, grad: 0.0146
+Iter 24531 of 25000, epoch 767, time: 1112m 49s (- 21m 13s), obj: 0.0012, grad: 0.0040
+Iter 24532 of 25000, epoch 767, time: 1112m 52s (- 21m 11s), obj: 0.0030, grad: 0.0090
+Iter 24533 of 25000, epoch 767, time: 1112m 54s (- 21m 8s), obj: 0.0067, grad: 0.0665
+Iter 24534 of 25000, epoch 767, time: 1112m 57s (- 21m 5s), obj: 0.0024, grad: 0.0600
+Iter 24535 of 25000, epoch 767, time: 1113m 0s (- 21m 2s), obj: 0.0048, grad: 0.0092
+Iter 24536 of 25000, epoch 767, time: 1113m 3s (- 21m 0s), obj: 0.0035, grad: 0.0603
+Iter 24537 of 25000, epoch 767, time: 1113m 5s (- 20m 57s), obj: 0.0030, grad: 0.0062
+Iter 24538 of 25000, epoch 767, time: 1113m 8s (- 20m 54s), obj: 0.0049, grad: 0.0407
+Iter 24539 of 25000, epoch 767, time: 1113m 11s (- 20m 51s), obj: 0.0041, grad: 0.0952
+Iter 24540 of 25000, epoch 767, time: 1113m 14s (- 20m 49s), obj: 0.0022, grad: 0.0140
+Iter 24541 of 25000, epoch 767, time: 1113m 16s (- 20m 46s), obj: 0.0013, grad: 0.0174
+Iter 24542 of 25000, epoch 767, time: 1113m 19s (- 20m 43s), obj: 0.0028, grad: 0.0134
+Iter 24543 of 25000, epoch 767, time: 1113m 22s (- 20m 41s), obj: 0.0032, grad: 0.0057
+Iter 24544 of 25000, epoch 768, time: 1113m 25s (- 20m 38s), obj: 0.0023, grad: 0.0121
+Iter 24545 of 25000, epoch 768, time: 1113m 26s (- 20m 35s), obj: 0.0008, grad: 0.0129
+Iter 24546 of 25000, epoch 768, time: 1113m 29s (- 20m 32s), obj: 0.0023, grad: 0.0126
+Iter 24547 of 25000, epoch 768, time: 1113m 31s (- 20m 30s), obj: 0.0051, grad: 0.0991
+Iter 24548 of 25000, epoch 768, time: 1113m 34s (- 20m 27s), obj: 0.0010, grad: 0.0064
+Iter 24549 of 25000, epoch 768, time: 1113m 37s (- 20m 24s), obj: 0.0018, grad: 0.0042
+Iter 24550 of 25000, epoch 768, time: 1113m 39s (- 20m 22s), obj: 0.0032, grad: 0.0495
+Iter 24551 of 25000, epoch 768, time: 1113m 42s (- 20m 19s), obj: 0.0040, grad: 0.0916
+Iter 24552 of 25000, epoch 768, time: 1113m 45s (- 20m 16s), obj: 0.0041, grad: 0.0224
+Iter 24553 of 25000, epoch 768, time: 1113m 48s (- 20m 13s), obj: 0.0036, grad: 0.1429
+Iter 24554 of 25000, epoch 768, time: 1113m 50s (- 20m 11s), obj: 0.0022, grad: 0.0253
+Iter 24555 of 25000, epoch 768, time: 1113m 53s (- 20m 8s), obj: 0.0019, grad: 0.0028
+Iter 24556 of 25000, epoch 768, time: 1113m 56s (- 20m 5s), obj: 0.0035, grad: 0.0099
+Iter 24557 of 25000, epoch 768, time: 1113m 58s (- 20m 2s), obj: 0.0014, grad: 0.0044
+Iter 24558 of 25000, epoch 768, time: 1114m 1s (- 20m 0s), obj: 0.0040, grad: 0.0313
+Iter 24559 of 25000, epoch 768, time: 1114m 4s (- 19m 57s), obj: 0.0024, grad: 0.0090
+Iter 24560 of 25000, epoch 768, time: 1114m 7s (- 19m 54s), obj: 0.0058, grad: 0.0091
+Iter 24561 of 25000, epoch 768, time: 1114m 10s (- 19m 52s), obj: 0.0025, grad: 0.0051
+Iter 24562 of 25000, epoch 768, time: 1114m 13s (- 19m 49s), obj: 0.0047, grad: 0.0339
+Iter 24563 of 25000, epoch 768, time: 1114m 16s (- 19m 46s), obj: 0.0043, grad: 0.0191
+Iter 24564 of 25000, epoch 768, time: 1114m 18s (- 19m 43s), obj: 0.0028, grad: 0.0821
+Iter 24565 of 25000, epoch 768, time: 1114m 21s (- 19m 41s), obj: 0.0025, grad: 0.0176
+Iter 24566 of 25000, epoch 768, time: 1114m 24s (- 19m 38s), obj: 0.0058, grad: 0.0142
+Iter 24567 of 25000, epoch 768, time: 1114m 27s (- 19m 35s), obj: 0.0071, grad: 0.0090
+Iter 24568 of 25000, epoch 768, time: 1114m 30s (- 19m 33s), obj: 0.0021, grad: 0.0162
+Iter 24569 of 25000, epoch 768, time: 1114m 33s (- 19m 30s), obj: 0.0044, grad: 0.0060
+Iter 24570 of 25000, epoch 768, time: 1114m 35s (- 19m 27s), obj: 0.0021, grad: 0.0118
+Iter 24571 of 25000, epoch 768, time: 1114m 38s (- 19m 24s), obj: 0.0013, grad: 0.0178
+Iter 24572 of 25000, epoch 768, time: 1114m 41s (- 19m 22s), obj: 0.0079, grad: 0.0207
+Iter 24573 of 25000, epoch 768, time: 1114m 44s (- 19m 19s), obj: 0.0064, grad: 0.1637
+Iter 24574 of 25000, epoch 768, time: 1114m 47s (- 19m 16s), obj: 0.0033, grad: 0.0113
+Iter 24575 of 25000, epoch 768, time: 1114m 50s (- 19m 14s), obj: 0.0072, grad: 0.1766
+Iter 24576 of 25000, epoch 769, time: 1114m 52s (- 19m 11s), obj: 0.0037, grad: 0.0060
+Iter 24577 of 25000, epoch 769, time: 1114m 55s (- 19m 8s), obj: 0.0021, grad: 0.0792
+Iter 24578 of 25000, epoch 769, time: 1114m 58s (- 19m 5s), obj: 0.0044, grad: 0.0284
+Iter 24579 of 25000, epoch 769, time: 1115m 0s (- 19m 3s), obj: 0.0037, grad: 0.0107
+Iter 24580 of 25000, epoch 769, time: 1115m 3s (- 19m 0s), obj: 0.0014, grad: 0.0065
+Iter 24581 of 25000, epoch 769, time: 1115m 4s (- 18m 57s), obj: 0.0030, grad: 0.0128
+Iter 24582 of 25000, epoch 769, time: 1115m 6s (- 18m 54s), obj: 0.0020, grad: 0.0024
+Iter 24583 of 25000, epoch 769, time: 1115m 9s (- 18m 52s), obj: 0.0045, grad: 0.0203
+Iter 24584 of 25000, epoch 769, time: 1115m 12s (- 18m 49s), obj: 0.0081, grad: 0.0102
+Iter 24585 of 25000, epoch 769, time: 1115m 14s (- 18m 46s), obj: 0.0028, grad: 0.0033
+Iter 24586 of 25000, epoch 769, time: 1115m 17s (- 18m 44s), obj: 0.0038, grad: 0.0470
+Iter 24587 of 25000, epoch 769, time: 1115m 20s (- 18m 41s), obj: 0.0022, grad: 0.0103
+Iter 24588 of 25000, epoch 769, time: 1115m 22s (- 18m 38s), obj: 0.0027, grad: 0.0061
+Iter 24589 of 25000, epoch 769, time: 1115m 25s (- 18m 35s), obj: 0.0039, grad: 0.0186
+Iter 24590 of 25000, epoch 769, time: 1115m 28s (- 18m 33s), obj: 0.0015, grad: 0.0128
+Iter 24591 of 25000, epoch 769, time: 1115m 30s (- 18m 30s), obj: 0.0034, grad: 0.0881
+Iter 24592 of 25000, epoch 769, time: 1115m 33s (- 18m 27s), obj: 0.0050, grad: 0.0734
+Iter 24593 of 25000, epoch 769, time: 1115m 36s (- 18m 24s), obj: 0.0060, grad: 0.0311
+Iter 24594 of 25000, epoch 769, time: 1115m 38s (- 18m 22s), obj: 0.0030, grad: 0.0043
+Iter 24595 of 25000, epoch 769, time: 1115m 41s (- 18m 19s), obj: 0.0032, grad: 0.0301
+Iter 24596 of 25000, epoch 769, time: 1115m 44s (- 18m 16s), obj: 0.0025, grad: 0.0041
+Iter 24597 of 25000, epoch 769, time: 1115m 47s (- 18m 14s), obj: 0.0028, grad: 0.0378
+Iter 24598 of 25000, epoch 769, time: 1115m 49s (- 18m 11s), obj: 0.0028, grad: 0.0483
+Iter 24599 of 25000, epoch 769, time: 1115m 52s (- 18m 8s), obj: 0.0034, grad: 0.0588
+Evaluation on nmt-train: 1500 items, 26362 tokens
+Hamming = 0.0000, Seq = 0.0000, Log loss = 0.0903, Train loss (bleu-smoothed): 0.0000, BLEU = 1.0000, Eval time: 2.0s
+Evaluation on nmt-valid: 1406 items, 25309 tokens
+Hamming = 1.1010, Seq = 1.0000, Log loss = 0.1671, Train loss (bleu-smoothed): 0.9491, BLEU = 0.0015, Eval time: 1.8s
+Saving checkpoint /home/mila/c/chris.emezue/scratch/searnn-output/fr-ewe-l2s/checkpoint_iter_24600.pth
+Iter 24600 of 25000, epoch 769, time: 1115m 59s (- 18m 6s), obj: 0.0025, grad: 0.0686
+Iter 24601 of 25000, epoch 769, time: 1116m 1s (- 18m 3s), obj: 0.0036, grad: 0.0350
+Iter 24602 of 25000, epoch 769, time: 1116m 4s (- 18m 0s), obj: 0.0043, grad: 0.0263
+Iter 24603 of 25000, epoch 769, time: 1116m 7s (- 17m 57s), obj: 0.0037, grad: 0.0148
+Iter 24604 of 25000, epoch 769, time: 1116m 10s (- 17m 55s), obj: 0.0033, grad: 0.0102
+Iter 24605 of 25000, epoch 769, time: 1116m 12s (- 17m 52s), obj: 0.0016, grad: 0.0139
+Iter 24606 of 25000, epoch 769, time: 1116m 15s (- 17m 49s), obj: 0.0038, grad: 0.0420
+Iter 24607 of 25000, epoch 769, time: 1116m 18s (- 17m 46s), obj: 0.0052, grad: 0.0566
+Iter 24608 of 25000, epoch 770, time: 1116m 21s (- 17m 44s), obj: 0.0038, grad: 0.1000
+Iter 24609 of 25000, epoch 770, time: 1116m 24s (- 17m 41s), obj: 0.0017, grad: 0.0162
+Iter 24610 of 25000, epoch 770, time: 1116m 27s (- 17m 38s), obj: 0.0063, grad: 0.0479
+Iter 24611 of 25000, epoch 770, time: 1116m 29s (- 17m 36s), obj: 0.0036, grad: 0.0128
+Iter 24612 of 25000, epoch 770, time: 1116m 32s (- 17m 33s), obj: 0.0016, grad: 0.0158
+Iter 24613 of 25000, epoch 770, time: 1116m 35s (- 17m 30s), obj: 0.0028, grad: 0.0395
+Iter 24614 of 25000, epoch 770, time: 1116m 38s (- 17m 27s), obj: 0.0032, grad: 0.0522
+Iter 24615 of 25000, epoch 770, time: 1116m 41s (- 17m 25s), obj: 0.0033, grad: 0.0761
+Iter 24616 of 25000, epoch 770, time: 1116m 44s (- 17m 22s), obj: 0.0022, grad: 0.0178
+Iter 24617 of 25000, epoch 770, time: 1116m 46s (- 17m 19s), obj: 0.0020, grad: 0.0094
+Iter 24618 of 25000, epoch 770, time: 1116m 49s (- 17m 17s), obj: 0.0018, grad: 0.0521
+Iter 24619 of 25000, epoch 770, time: 1116m 51s (- 17m 14s), obj: 0.0060, grad: 0.0561
+Iter 24620 of 25000, epoch 770, time: 1116m 54s (- 17m 11s), obj: 0.0023, grad: 0.0764
+Iter 24621 of 25000, epoch 770, time: 1116m 57s (- 17m 8s), obj: 0.0054, grad: 0.0446
+Iter 24622 of 25000, epoch 770, time: 1117m 0s (- 17m 6s), obj: 0.0056, grad: 0.0621
+Iter 24623 of 25000, epoch 770, time: 1117m 2s (- 17m 3s), obj: 0.0054, grad: 0.0979
+Iter 24624 of 25000, epoch 770, time: 1117m 5s (- 17m 0s), obj: 0.0027, grad: 0.0097
+Iter 24625 of 25000, epoch 770, time: 1117m 6s (- 16m 57s), obj: 0.0049, grad: 0.0232
+Iter 24626 of 25000, epoch 770, time: 1117m 9s (- 16m 55s), obj: 0.0061, grad: 0.0087
+Iter 24627 of 25000, epoch 770, time: 1117m 11s (- 16m 52s), obj: 0.0041, grad: 0.0076
+Iter 24628 of 25000, epoch 770, time: 1117m 14s (- 16m 49s), obj: 0.0019, grad: 0.0070
+Iter 24629 of 25000, epoch 770, time: 1117m 17s (- 16m 47s), obj: 0.0043, grad: 0.0250
+Iter 24630 of 25000, epoch 770, time: 1117m 19s (- 16m 44s), obj: 0.0028, grad: 0.0455
+Iter 24631 of 25000, epoch 770, time: 1117m 22s (- 16m 41s), obj: 0.0037, grad: 0.0880
+Iter 24632 of 25000, epoch 770, time: 1117m 25s (- 16m 38s), obj: 0.0054, grad: 0.0285
+Iter 24633 of 25000, epoch 770, time: 1117m 28s (- 16m 36s), obj: 0.0041, grad: 0.0068
+Iter 24634 of 25000, epoch 770, time: 1117m 31s (- 16m 33s), obj: 0.0018, grad: 0.0294
+Iter 24635 of 25000, epoch 770, time: 1117m 34s (- 16m 30s), obj: 0.0033, grad: 0.0208
+Iter 24636 of 25000, epoch 770, time: 1117m 36s (- 16m 28s), obj: 0.0022, grad: 0.0314
+Iter 24637 of 25000, epoch 770, time: 1117m 39s (- 16m 25s), obj: 0.0026, grad: 0.0063
+Iter 24638 of 25000, epoch 770, time: 1117m 42s (- 16m 22s), obj: 0.0027, grad: 0.0252
+Iter 24639 of 25000, epoch 770, time: 1117m 45s (- 16m 19s), obj: 0.0041, grad: 0.0107
+Iter 24640 of 25000, epoch 771, time: 1117m 47s (- 16m 17s), obj: 0.0025, grad: 0.0093
+Iter 24641 of 25000, epoch 771, time: 1117m 50s (- 16m 14s), obj: 0.0027, grad: 0.0277
+Iter 24642 of 25000, epoch 771, time: 1117m 53s (- 16m 11s), obj: 0.0035, grad: 0.0282
+Iter 24643 of 25000, epoch 771, time: 1117m 56s (- 16m 8s), obj: 0.0044, grad: 0.0337
+Iter 24644 of 25000, epoch 771, time: 1117m 58s (- 16m 6s), obj: 0.0015, grad: 0.0120
+Iter 24645 of 25000, epoch 771, time: 1117m 59s (- 16m 3s), obj: 0.0049, grad: 0.0472
+Iter 24646 of 25000, epoch 771, time: 1118m 2s (- 16m 0s), obj: 0.0023, grad: 0.0092
+Iter 24647 of 25000, epoch 771, time: 1118m 5s (- 15m 58s), obj: 0.0025, grad: 0.0109
+Iter 24648 of 25000, epoch 771, time: 1118m 8s (- 15m 55s), obj: 0.0029, grad: 0.0204
+Iter 24649 of 25000, epoch 771, time: 1118m 10s (- 15m 52s), obj: 0.0030, grad: 0.0730
+Iter 24650 of 25000, epoch 771, time: 1118m 13s (- 15m 49s), obj: 0.0034, grad: 0.0295
+Iter 24651 of 25000, epoch 771, time: 1118m 15s (- 15m 47s), obj: 0.0044, grad: 0.0550
+Iter 24652 of 25000, epoch 771, time: 1118m 18s (- 15m 44s), obj: 0.0027, grad: 0.0061
+Iter 24653 of 25000, epoch 771, time: 1118m 21s (- 15m 41s), obj: 0.0070, grad: 0.0118
+Iter 24654 of 25000, epoch 771, time: 1118m 23s (- 15m 38s), obj: 0.0035, grad: 0.0148
+Iter 24655 of 25000, epoch 771, time: 1118m 26s (- 15m 36s), obj: 0.0026, grad: 0.0077
+Iter 24656 of 25000, epoch 771, time: 1118m 29s (- 15m 33s), obj: 0.0052, grad: 0.0721
+Iter 24657 of 25000, epoch 771, time: 1118m 31s (- 15m 30s), obj: 0.0041, grad: 0.0058
+Iter 24658 of 25000, epoch 771, time: 1118m 34s (- 15m 28s), obj: 0.0017, grad: 0.0089
+Iter 24659 of 25000, epoch 771, time: 1118m 36s (- 15m 25s), obj: 0.0017, grad: 0.0081
+Iter 24660 of 25000, epoch 771, time: 1118m 39s (- 15m 22s), obj: 0.0053, grad: 0.0397
+Iter 24661 of 25000, epoch 771, time: 1118m 42s (- 15m 19s), obj: 0.0071, grad: 0.1031
+Iter 24662 of 25000, epoch 771, time: 1118m 45s (- 15m 17s), obj: 0.0044, grad: 0.0149
+Iter 24663 of 25000, epoch 771, time: 1118m 47s (- 15m 14s), obj: 0.0011, grad: 0.0045
+Iter 24664 of 25000, epoch 771, time: 1118m 50s (- 15m 11s), obj: 0.0060, grad: 0.0190
+Iter 24665 of 25000, epoch 771, time: 1118m 53s (- 15m 9s), obj: 0.0018, grad: 0.0204
+Iter 24666 of 25000, epoch 771, time: 1118m 55s (- 15m 6s), obj: 0.0045, grad: 0.0912
+Iter 24667 of 25000, epoch 771, time: 1118m 58s (- 15m 3s), obj: 0.0033, grad: 0.0285
+Iter 24668 of 25000, epoch 771, time: 1119m 1s (- 15m 0s), obj: 0.0034, grad: 0.1483
+Iter 24669 of 25000, epoch 771, time: 1119m 4s (- 14m 58s), obj: 0.0025, grad: 0.0236
+Iter 24670 of 25000, epoch 771, time: 1119m 7s (- 14m 55s), obj: 0.0039, grad: 0.0254
+Iter 24671 of 25000, epoch 771, time: 1119m 9s (- 14m 52s), obj: 0.0020, grad: 0.0102
+Iter 24672 of 25000, epoch 772, time: 1119m 12s (- 14m 49s), obj: 0.0028, grad: 0.0058
+Iter 24673 of 25000, epoch 772, time: 1119m 15s (- 14m 47s), obj: 0.0047, grad: 0.0280
+Iter 24674 of 25000, epoch 772, time: 1119m 18s (- 14m 44s), obj: 0.0059, grad: 0.0613
+Iter 24675 of 25000, epoch 772, time: 1119m 20s (- 14m 41s), obj: 0.0025, grad: 0.0196
+Iter 24676 of 25000, epoch 772, time: 1119m 23s (- 14m 39s), obj: 0.0046, grad: 0.0719
+Iter 24677 of 25000, epoch 772, time: 1119m 26s (- 14m 36s), obj: 0.0022, grad: 0.0073
+Iter 24678 of 25000, epoch 772, time: 1119m 28s (- 14m 33s), obj: 0.0025, grad: 0.0131
+Iter 24679 of 25000, epoch 772, time: 1119m 31s (- 14m 30s), obj: 0.0023, grad: 0.0086
+Iter 24680 of 25000, epoch 772, time: 1119m 32s (- 14m 28s), obj: 0.0014, grad: 0.0033
+Iter 24681 of 25000, epoch 772, time: 1119m 35s (- 14m 25s), obj: 0.0022, grad: 0.0188
+Iter 24682 of 25000, epoch 772, time: 1119m 38s (- 14m 22s), obj: 0.0016, grad: 0.0057
+Iter 24683 of 25000, epoch 772, time: 1119m 40s (- 14m 20s), obj: 0.0022, grad: 0.0035
+Iter 24684 of 25000, epoch 772, time: 1119m 43s (- 14m 17s), obj: 0.0022, grad: 0.0174
+Iter 24685 of 25000, epoch 772, time: 1119m 46s (- 14m 14s), obj: 0.0061, grad: 0.0139
+Iter 24686 of 25000, epoch 772, time: 1119m 49s (- 14m 11s), obj: 0.0038, grad: 0.0056
+Iter 24687 of 25000, epoch 772, time: 1119m 52s (- 14m 9s), obj: 0.0017, grad: 0.0047
+Iter 24688 of 25000, epoch 772, time: 1119m 55s (- 14m 6s), obj: 0.0055, grad: 0.0117
+Iter 24689 of 25000, epoch 772, time: 1119m 57s (- 14m 3s), obj: 0.0047, grad: 0.1401
+Iter 24690 of 25000, epoch 772, time: 1120m 0s (- 14m 0s), obj: 0.0032, grad: 0.0071
+Iter 24691 of 25000, epoch 772, time: 1120m 3s (- 13m 58s), obj: 0.0058, grad: 0.0195
+Iter 24692 of 25000, epoch 772, time: 1120m 6s (- 13m 55s), obj: 0.0062, grad: 0.0383
+Iter 24693 of 25000, epoch 772, time: 1120m 8s (- 13m 52s), obj: 0.0019, grad: 0.0064
+Iter 24694 of 25000, epoch 772, time: 1120m 11s (- 13m 50s), obj: 0.0017, grad: 0.0112
+Iter 24695 of 25000, epoch 772, time: 1120m 14s (- 13m 47s), obj: 0.0029, grad: 0.0186
+Iter 24696 of 25000, epoch 772, time: 1120m 17s (- 13m 44s), obj: 0.0023, grad: 0.0152
+Iter 24697 of 25000, epoch 772, time: 1120m 19s (- 13m 41s), obj: 0.0040, grad: 0.0381
+Iter 24698 of 25000, epoch 772, time: 1120m 22s (- 13m 39s), obj: 0.0051, grad: 0.0328
+Iter 24699 of 25000, epoch 772, time: 1120m 25s (- 13m 36s), obj: 0.0057, grad: 0.0778
+Evaluation on nmt-train: 1500 items, 26362 tokens
+Hamming = 0.0000, Seq = 0.0000, Log loss = 0.0826, Train loss (bleu-smoothed): 0.0000, BLEU = 1.0000, Eval time: 2.0s
+Evaluation on nmt-valid: 1406 items, 25309 tokens
+Hamming = 1.1073, Seq = 1.0000, Log loss = 0.1619, Train loss (bleu-smoothed): 0.9486, BLEU = 0.0016, Eval time: 1.8s
+Saving checkpoint /home/mila/c/chris.emezue/scratch/searnn-output/fr-ewe-l2s/checkpoint_iter_24700.pth
+Iter 24700 of 25000, epoch 772, time: 1120m 32s (- 13m 33s), obj: 0.0045, grad: 0.0697
+Iter 24701 of 25000, epoch 772, time: 1120m 35s (- 13m 31s), obj: 0.0014, grad: 0.0132
+Iter 24702 of 25000, epoch 772, time: 1120m 37s (- 13m 28s), obj: 0.0020, grad: 0.0092
+Iter 24703 of 25000, epoch 772, time: 1120m 40s (- 13m 25s), obj: 0.0022, grad: 0.0057
+Iter 24704 of 25000, epoch 773, time: 1120m 43s (- 13m 22s), obj: 0.0028, grad: 0.0044
+Iter 24705 of 25000, epoch 773, time: 1120m 46s (- 13m 20s), obj: 0.0024, grad: 0.0137
+Iter 24706 of 25000, epoch 773, time: 1120m 48s (- 13m 17s), obj: 0.0035, grad: 0.0067
+Iter 24707 of 25000, epoch 773, time: 1120m 51s (- 13m 14s), obj: 0.0042, grad: 0.0110
+Iter 24708 of 25000, epoch 773, time: 1120m 54s (- 13m 12s), obj: 0.0028, grad: 0.0251
+Iter 24709 of 25000, epoch 773, time: 1120m 56s (- 13m 9s), obj: 0.0050, grad: 0.0637
+Iter 24710 of 25000, epoch 773, time: 1120m 59s (- 13m 6s), obj: 0.0025, grad: 0.0863
+Iter 24711 of 25000, epoch 773, time: 1121m 2s (- 13m 3s), obj: 0.0039, grad: 0.0358
+Iter 24712 of 25000, epoch 773, time: 1121m 5s (- 13m 1s), obj: 0.0018, grad: 0.0049
+Iter 24713 of 25000, epoch 773, time: 1121m 5s (- 12m 58s), obj: 0.0014, grad: 0.0220
+Iter 24714 of 25000, epoch 773, time: 1121m 8s (- 12m 55s), obj: 0.0048, grad: 0.0423
+Iter 24715 of 25000, epoch 773, time: 1121m 11s (- 12m 52s), obj: 0.0033, grad: 0.0083
+Iter 24716 of 25000, epoch 773, time: 1121m 14s (- 12m 50s), obj: 0.0025, grad: 0.0259
+Iter 24717 of 25000, epoch 773, time: 1121m 16s (- 12m 47s), obj: 0.0049, grad: 0.0127
+Iter 24718 of 25000, epoch 773, time: 1121m 19s (- 12m 44s), obj: 0.0024, grad: 0.0099
+Iter 24719 of 25000, epoch 773, time: 1121m 22s (- 12m 42s), obj: 0.0023, grad: 0.0101
+Iter 24720 of 25000, epoch 773, time: 1121m 25s (- 12m 39s), obj: 0.0028, grad: 0.0213
+Iter 24721 of 25000, epoch 773, time: 1121m 27s (- 12m 36s), obj: 0.0047, grad: 0.0202
+Iter 24722 of 25000, epoch 773, time: 1121m 30s (- 12m 33s), obj: 0.0026, grad: 0.0227
+Iter 24723 of 25000, epoch 773, time: 1121m 32s (- 12m 31s), obj: 0.0030, grad: 0.0916
+Iter 24724 of 25000, epoch 773, time: 1121m 35s (- 12m 28s), obj: 0.0020, grad: 0.0110
+Iter 24725 of 25000, epoch 773, time: 1121m 38s (- 12m 25s), obj: 0.0025, grad: 0.0091
+Iter 24726 of 25000, epoch 773, time: 1121m 41s (- 12m 23s), obj: 0.0065, grad: 0.0093
+Iter 24727 of 25000, epoch 773, time: 1121m 43s (- 12m 20s), obj: 0.0009, grad: 0.0044
+Iter 24728 of 25000, epoch 773, time: 1121m 46s (- 12m 17s), obj: 0.0031, grad: 0.0201
+Iter 24729 of 25000, epoch 773, time: 1121m 48s (- 12m 14s), obj: 0.0019, grad: 0.0328
+Iter 24730 of 25000, epoch 773, time: 1121m 51s (- 12m 12s), obj: 0.0048, grad: 0.1203
+Iter 24731 of 25000, epoch 773, time: 1121m 54s (- 12m 9s), obj: 0.0034, grad: 0.0110
+Iter 24732 of 25000, epoch 773, time: 1121m 56s (- 12m 6s), obj: 0.0061, grad: 0.0188
+Iter 24733 of 25000, epoch 773, time: 1121m 59s (- 12m 3s), obj: 0.0022, grad: 0.0262
+Iter 24734 of 25000, epoch 773, time: 1122m 2s (- 12m 1s), obj: 0.0043, grad: 0.0264
+Iter 24735 of 25000, epoch 773, time: 1122m 5s (- 11m 58s), obj: 0.0016, grad: 0.0040
+Iter 24736 of 25000, epoch 774, time: 1122m 7s (- 11m 55s), obj: 0.0031, grad: 0.0513
+Iter 24737 of 25000, epoch 774, time: 1122m 10s (- 11m 53s), obj: 0.0030, grad: 0.0238
+Iter 24738 of 25000, epoch 774, time: 1122m 13s (- 11m 50s), obj: 0.0020, grad: 0.0291
+Iter 24739 of 25000, epoch 774, time: 1122m 16s (- 11m 47s), obj: 0.0020, grad: 0.0062
+Iter 24740 of 25000, epoch 774, time: 1122m 19s (- 11m 44s), obj: 0.0038, grad: 0.0281
+Iter 24741 of 25000, epoch 774, time: 1122m 22s (- 11m 42s), obj: 0.0040, grad: 0.0160
+Iter 24742 of 25000, epoch 774, time: 1122m 25s (- 11m 39s), obj: 0.0017, grad: 0.0081
+Iter 24743 of 25000, epoch 774, time: 1122m 28s (- 11m 36s), obj: 0.0034, grad: 0.0169
+Iter 24744 of 25000, epoch 774, time: 1122m 30s (- 11m 34s), obj: 0.0013, grad: 0.0517
+Iter 24745 of 25000, epoch 774, time: 1122m 33s (- 11m 31s), obj: 0.0031, grad: 0.0112
+Iter 24746 of 25000, epoch 774, time: 1122m 35s (- 11m 28s), obj: 0.0030, grad: 0.0439
+Iter 24747 of 25000, epoch 774, time: 1122m 38s (- 11m 25s), obj: 0.0105, grad: 0.0746
+Iter 24748 of 25000, epoch 774, time: 1122m 41s (- 11m 23s), obj: 0.0028, grad: 0.0069
+Iter 24749 of 25000, epoch 774, time: 1122m 45s (- 11m 20s), obj: 0.0026, grad: 0.0069
+Iter 24750 of 25000, epoch 774, time: 1122m 48s (- 11m 17s), obj: 0.0039, grad: 0.0134
+Iter 24751 of 25000, epoch 774, time: 1122m 50s (- 11m 15s), obj: 0.0028, grad: 0.0495
+Iter 24752 of 25000, epoch 774, time: 1122m 53s (- 11m 12s), obj: 0.0052, grad: 0.0119
+Iter 24753 of 25000, epoch 774, time: 1122m 56s (- 11m 9s), obj: 0.0027, grad: 0.0181
+Iter 24754 of 25000, epoch 774, time: 1122m 59s (- 11m 6s), obj: 0.0052, grad: 0.0518
+Iter 24755 of 25000, epoch 774, time: 1123m 1s (- 11m 4s), obj: 0.0028, grad: 0.0471
+Iter 24756 of 25000, epoch 774, time: 1123m 4s (- 11m 1s), obj: 0.0026, grad: 0.0367
+Iter 24757 of 25000, epoch 774, time: 1123m 7s (- 10m 58s), obj: 0.0048, grad: 0.0080
+Iter 24758 of 25000, epoch 774, time: 1123m 10s (- 10m 55s), obj: 0.0012, grad: 0.0157
+Iter 24759 of 25000, epoch 774, time: 1123m 12s (- 10m 53s), obj: 0.0019, grad: 0.0254
+Iter 24760 of 25000, epoch 774, time: 1123m 15s (- 10m 50s), obj: 0.0023, grad: 0.0236
+Iter 24761 of 25000, epoch 774, time: 1123m 18s (- 10m 47s), obj: 0.0018, grad: 0.0079
+Iter 24762 of 25000, epoch 774, time: 1123m 21s (- 10m 45s), obj: 0.0056, grad: 0.0136
+Iter 24763 of 25000, epoch 774, time: 1123m 23s (- 10m 42s), obj: 0.0074, grad: 0.0363
+Iter 24764 of 25000, epoch 774, time: 1123m 26s (- 10m 39s), obj: 0.0032, grad: 0.0062
+Iter 24765 of 25000, epoch 774, time: 1123m 27s (- 10m 36s), obj: 0.0001, grad: 0.0007
+Iter 24766 of 25000, epoch 774, time: 1123m 29s (- 10m 34s), obj: 0.0024, grad: 0.0033
+Iter 24767 of 25000, epoch 774, time: 1123m 32s (- 10m 31s), obj: 0.0022, grad: 0.0103
+Iter 24768 of 25000, epoch 775, time: 1123m 35s (- 10m 28s), obj: 0.0054, grad: 0.0145
+Iter 24769 of 25000, epoch 775, time: 1123m 38s (- 10m 26s), obj: 0.0018, grad: 0.0114
+Iter 24770 of 25000, epoch 775, time: 1123m 40s (- 10m 23s), obj: 0.0013, grad: 0.0048
+Iter 24771 of 25000, epoch 775, time: 1123m 43s (- 10m 20s), obj: 0.0012, grad: 0.0126
+Iter 24772 of 25000, epoch 775, time: 1123m 46s (- 10m 17s), obj: 0.0022, grad: 0.0254
+Iter 24773 of 25000, epoch 775, time: 1123m 48s (- 10m 15s), obj: 0.0034, grad: 0.0071
+Iter 24774 of 25000, epoch 775, time: 1123m 52s (- 10m 12s), obj: 0.0042, grad: 0.0080
+Iter 24775 of 25000, epoch 775, time: 1123m 54s (- 10m 9s), obj: 0.0027, grad: 0.0438
+Iter 24776 of 25000, epoch 775, time: 1123m 57s (- 10m 6s), obj: 0.0068, grad: 0.0903
+Iter 24777 of 25000, epoch 775, time: 1124m 0s (- 10m 4s), obj: 0.0057, grad: 0.0106
+Iter 24778 of 25000, epoch 775, time: 1124m 3s (- 10m 1s), obj: 0.0024, grad: 0.0068
+Iter 24779 of 25000, epoch 775, time: 1124m 6s (- 9m 58s), obj: 0.0030, grad: 0.0283
+Iter 24780 of 25000, epoch 775, time: 1124m 8s (- 9m 56s), obj: 0.0029, grad: 0.0589
+Iter 24781 of 25000, epoch 775, time: 1124m 11s (- 9m 53s), obj: 0.0023, grad: 0.0107
+Iter 24782 of 25000, epoch 775, time: 1124m 13s (- 9m 50s), obj: 0.0013, grad: 0.0185
+Iter 24783 of 25000, epoch 775, time: 1124m 16s (- 9m 47s), obj: 0.0032, grad: 0.0098
+Iter 24784 of 25000, epoch 775, time: 1124m 19s (- 9m 45s), obj: 0.0026, grad: 0.0087
+Iter 24785 of 25000, epoch 775, time: 1124m 21s (- 9m 42s), obj: 0.0037, grad: 0.0989
+Iter 24786 of 25000, epoch 775, time: 1124m 24s (- 9m 39s), obj: 0.0021, grad: 0.0258
+Iter 24787 of 25000, epoch 775, time: 1124m 27s (- 9m 37s), obj: 0.0034, grad: 0.0894
+Iter 24788 of 25000, epoch 775, time: 1124m 29s (- 9m 34s), obj: 0.0026, grad: 0.0087
+Iter 24789 of 25000, epoch 775, time: 1124m 32s (- 9m 31s), obj: 0.0029, grad: 0.0061
+Iter 24790 of 25000, epoch 775, time: 1124m 33s (- 9m 28s), obj: 0.0024, grad: 0.0097
+Iter 24791 of 25000, epoch 775, time: 1124m 35s (- 9m 26s), obj: 0.0023, grad: 0.0056
+Iter 24792 of 25000, epoch 775, time: 1124m 38s (- 9m 23s), obj: 0.0035, grad: 0.0064
+Iter 24793 of 25000, epoch 775, time: 1124m 40s (- 9m 20s), obj: 0.0042, grad: 0.0387
+Iter 24794 of 25000, epoch 775, time: 1124m 43s (- 9m 17s), obj: 0.0054, grad: 0.0140
+Iter 24795 of 25000, epoch 775, time: 1124m 46s (- 9m 15s), obj: 0.0041, grad: 0.0522
+Iter 24796 of 25000, epoch 775, time: 1124m 49s (- 9m 12s), obj: 0.0029, grad: 0.0096
+Iter 24797 of 25000, epoch 775, time: 1124m 51s (- 9m 9s), obj: 0.0038, grad: 0.0162
+Iter 24798 of 25000, epoch 775, time: 1124m 54s (- 9m 7s), obj: 0.0056, grad: 0.0293
+Iter 24799 of 25000, epoch 775, time: 1124m 57s (- 9m 4s), obj: 0.0022, grad: 0.0069
+Evaluation on nmt-train: 1500 items, 26362 tokens
+Hamming = 0.0000, Seq = 0.0000, Log loss = 0.0813, Train loss (bleu-smoothed): 0.0000, BLEU = 1.0000, Eval time: 1.9s
+Evaluation on nmt-valid: 1406 items, 25309 tokens
+Hamming = 1.1291, Seq = 1.0000, Log loss = 0.1646, Train loss (bleu-smoothed): 0.9480, BLEU = 0.0021, Eval time: 1.8s
+Saving checkpoint /home/mila/c/chris.emezue/scratch/searnn-output/fr-ewe-l2s/checkpoint_iter_24800.pth
+Iter 24800 of 25000, epoch 776, time: 1125m 3s (- 9m 1s), obj: 0.0052, grad: 0.0106
+Iter 24801 of 25000, epoch 776, time: 1125m 6s (- 8m 58s), obj: 0.0025, grad: 0.0126
+Iter 24802 of 25000, epoch 776, time: 1125m 9s (- 8m 56s), obj: 0.0025, grad: 0.0142
+Iter 24803 of 25000, epoch 776, time: 1125m 12s (- 8m 53s), obj: 0.0034, grad: 0.0086
+Iter 24804 of 25000, epoch 776, time: 1125m 15s (- 8m 50s), obj: 0.0036, grad: 0.0106
+Iter 24805 of 25000, epoch 776, time: 1125m 18s (- 8m 48s), obj: 0.0022, grad: 0.0048
+Iter 24806 of 25000, epoch 776, time: 1125m 20s (- 8m 45s), obj: 0.0036, grad: 0.0101
+Iter 24807 of 25000, epoch 776, time: 1125m 23s (- 8m 42s), obj: 0.0014, grad: 0.0439
+Iter 24808 of 25000, epoch 776, time: 1125m 26s (- 8m 39s), obj: 0.0039, grad: 0.0145
+Iter 24809 of 25000, epoch 776, time: 1125m 28s (- 8m 37s), obj: 0.0023, grad: 0.0648
+Iter 24810 of 25000, epoch 776, time: 1125m 31s (- 8m 34s), obj: 0.0024, grad: 0.1123
+Iter 24811 of 25000, epoch 776, time: 1125m 34s (- 8m 31s), obj: 0.0040, grad: 0.0460
+Iter 24812 of 25000, epoch 776, time: 1125m 37s (- 8m 28s), obj: 0.0043, grad: 0.0080
+Iter 24813 of 25000, epoch 776, time: 1125m 40s (- 8m 26s), obj: 0.0045, grad: 0.0237
+Iter 24814 of 25000, epoch 776, time: 1125m 43s (- 8m 23s), obj: 0.0046, grad: 0.0101
+Iter 24815 of 25000, epoch 776, time: 1125m 46s (- 8m 20s), obj: 0.0040, grad: 0.0140
+Iter 24816 of 25000, epoch 776, time: 1125m 49s (- 8m 18s), obj: 0.0035, grad: 0.0125
+Iter 24817 of 25000, epoch 776, time: 1125m 51s (- 8m 15s), obj: 0.0027, grad: 0.0227
+Iter 24818 of 25000, epoch 776, time: 1125m 54s (- 8m 12s), obj: 0.0015, grad: 0.0079
+Iter 24819 of 25000, epoch 776, time: 1125m 56s (- 8m 9s), obj: 0.0024, grad: 0.0123
+Iter 24820 of 25000, epoch 776, time: 1125m 59s (- 8m 7s), obj: 0.0030, grad: 0.0328
+Iter 24821 of 25000, epoch 776, time: 1126m 2s (- 8m 4s), obj: 0.0019, grad: 0.0034
+Iter 24822 of 25000, epoch 776, time: 1126m 5s (- 8m 1s), obj: 0.0025, grad: 0.0096
+Iter 24823 of 25000, epoch 776, time: 1126m 7s (- 7m 59s), obj: 0.0038, grad: 0.0060
+Iter 24824 of 25000, epoch 776, time: 1126m 10s (- 7m 56s), obj: 0.0049, grad: 0.0267
+Iter 24825 of 25000, epoch 776, time: 1126m 11s (- 7m 53s), obj: 0.0187, grad: 1.1552
+Iter 24826 of 25000, epoch 776, time: 1126m 13s (- 7m 50s), obj: 0.0036, grad: 0.0279
+Iter 24827 of 25000, epoch 776, time: 1126m 16s (- 7m 48s), obj: 0.0020, grad: 0.0077
+Iter 24828 of 25000, epoch 776, time: 1126m 19s (- 7m 45s), obj: 0.0038, grad: 0.0239
+Iter 24829 of 25000, epoch 776, time: 1126m 21s (- 7m 42s), obj: 0.0034, grad: 0.0602
+Iter 24830 of 25000, epoch 776, time: 1126m 24s (- 7m 39s), obj: 0.0043, grad: 0.0086
+Iter 24831 of 25000, epoch 776, time: 1126m 27s (- 7m 37s), obj: 0.0044, grad: 0.0286
+Iter 24832 of 25000, epoch 777, time: 1126m 30s (- 7m 34s), obj: 0.0053, grad: 0.0236
+Iter 24833 of 25000, epoch 777, time: 1126m 33s (- 7m 31s), obj: 0.0040, grad: 0.0110
+Iter 24834 of 25000, epoch 777, time: 1126m 36s (- 7m 29s), obj: 0.0031, grad: 0.0046
+Iter 24835 of 25000, epoch 777, time: 1126m 38s (- 7m 26s), obj: 0.0012, grad: 0.0037
+Iter 24836 of 25000, epoch 777, time: 1126m 41s (- 7m 23s), obj: 0.0044, grad: 0.0076
+Iter 24837 of 25000, epoch 777, time: 1126m 44s (- 7m 20s), obj: 0.0034, grad: 0.0048
+Iter 24838 of 25000, epoch 777, time: 1126m 46s (- 7m 18s), obj: 0.0018, grad: 0.0219
+Iter 24839 of 25000, epoch 777, time: 1126m 49s (- 7m 15s), obj: 0.0016, grad: 0.0172
+Iter 24840 of 25000, epoch 777, time: 1126m 52s (- 7m 12s), obj: 0.0032, grad: 0.0770
+Iter 24841 of 25000, epoch 777, time: 1126m 55s (- 7m 10s), obj: 0.1211, grad: 0.2795
+Iter 24842 of 25000, epoch 777, time: 1126m 57s (- 7m 7s), obj: 0.0045, grad: 0.0931
+Iter 24843 of 25000, epoch 777, time: 1127m 0s (- 7m 4s), obj: 0.0025, grad: 0.0506
+Iter 24844 of 25000, epoch 777, time: 1127m 1s (- 7m 1s), obj: 0.0030, grad: 0.0246
+Iter 24845 of 25000, epoch 777, time: 1127m 4s (- 6m 59s), obj: 0.0721, grad: 0.3627
+Iter 24846 of 25000, epoch 777, time: 1127m 7s (- 6m 56s), obj: 0.0031, grad: 0.0475
+Iter 24847 of 25000, epoch 777, time: 1127m 10s (- 6m 53s), obj: 0.0020, grad: 0.0332
+Iter 24848 of 25000, epoch 777, time: 1127m 12s (- 6m 50s), obj: 0.0037, grad: 0.0892
+Iter 24849 of 25000, epoch 777, time: 1127m 15s (- 6m 48s), obj: 0.0060, grad: 0.1262
+Iter 24850 of 25000, epoch 777, time: 1127m 18s (- 6m 45s), obj: 0.0045, grad: 0.0071
+Iter 24851 of 25000, epoch 777, time: 1127m 21s (- 6m 42s), obj: 0.0018, grad: 0.0335
+Iter 24852 of 25000, epoch 777, time: 1127m 24s (- 6m 40s), obj: 0.0068, grad: 0.0334
+Iter 24853 of 25000, epoch 777, time: 1127m 27s (- 6m 37s), obj: 0.0020, grad: 0.0274
+Iter 24854 of 25000, epoch 777, time: 1127m 30s (- 6m 34s), obj: 0.0039, grad: 0.0243
+Iter 24855 of 25000, epoch 777, time: 1127m 33s (- 6m 31s), obj: 0.0038, grad: 0.0821
+Iter 24856 of 25000, epoch 777, time: 1127m 36s (- 6m 29s), obj: 0.0031, grad: 0.0081
+Iter 24857 of 25000, epoch 777, time: 1127m 39s (- 6m 26s), obj: 0.0050, grad: 0.0554
+Iter 24858 of 25000, epoch 777, time: 1127m 42s (- 6m 23s), obj: 0.0015, grad: 0.0076
+Iter 24859 of 25000, epoch 777, time: 1127m 44s (- 6m 21s), obj: 0.0020, grad: 0.0164
+Iter 24860 of 25000, epoch 777, time: 1127m 47s (- 6m 18s), obj: 0.0028, grad: 0.0202
+Iter 24861 of 25000, epoch 777, time: 1127m 50s (- 6m 15s), obj: 0.0024, grad: 0.0254
+Iter 24862 of 25000, epoch 777, time: 1127m 52s (- 6m 12s), obj: 0.0061, grad: 0.0315
+Iter 24863 of 25000, epoch 777, time: 1127m 55s (- 6m 10s), obj: 0.0036, grad: 0.0218
+Iter 24864 of 25000, epoch 778, time: 1127m 58s (- 6m 7s), obj: 0.0072, grad: 0.1052
+Iter 24865 of 25000, epoch 778, time: 1128m 1s (- 6m 4s), obj: 0.0033, grad: 0.0065
+Iter 24866 of 25000, epoch 778, time: 1128m 4s (- 6m 2s), obj: 0.0039, grad: 0.0066
+Iter 24867 of 25000, epoch 778, time: 1128m 7s (- 5m 59s), obj: 0.0020, grad: 0.0141
+Iter 24868 of 25000, epoch 778, time: 1128m 10s (- 5m 56s), obj: 0.0037, grad: 0.0098
+Iter 24869 of 25000, epoch 778, time: 1128m 13s (- 5m 53s), obj: 0.0026, grad: 0.0045
+Iter 24870 of 25000, epoch 778, time: 1128m 16s (- 5m 51s), obj: 0.0019, grad: 0.0035
+Iter 24871 of 25000, epoch 778, time: 1128m 18s (- 5m 48s), obj: 0.0043, grad: 0.0425
+Iter 24872 of 25000, epoch 778, time: 1128m 21s (- 5m 45s), obj: 0.0039, grad: 0.0545
+Iter 24873 of 25000, epoch 778, time: 1128m 22s (- 5m 42s), obj: 0.0021, grad: 0.0078
+Iter 24874 of 25000, epoch 778, time: 1128m 25s (- 5m 40s), obj: 0.0030, grad: 0.0294
+Iter 24875 of 25000, epoch 778, time: 1128m 27s (- 5m 37s), obj: 0.0032, grad: 0.0079
+Iter 24876 of 25000, epoch 778, time: 1128m 30s (- 5m 34s), obj: 0.0015, grad: 0.0143
+Iter 24877 of 25000, epoch 778, time: 1128m 33s (- 5m 32s), obj: 0.0027, grad: 0.0323
+Iter 24878 of 25000, epoch 778, time: 1128m 36s (- 5m 29s), obj: 0.0028, grad: 0.0423
+Iter 24879 of 25000, epoch 778, time: 1128m 39s (- 5m 26s), obj: 0.0031, grad: 0.0071
+Iter 24880 of 25000, epoch 778, time: 1128m 42s (- 5m 23s), obj: 0.0048, grad: 0.0622
+Iter 24881 of 25000, epoch 778, time: 1128m 45s (- 5m 21s), obj: 0.0035, grad: 0.0196
+Iter 24882 of 25000, epoch 778, time: 1128m 48s (- 5m 18s), obj: 0.0067, grad: 0.0115
+Iter 24883 of 25000, epoch 778, time: 1128m 50s (- 5m 15s), obj: 0.0022, grad: 0.0352
+Iter 24884 of 25000, epoch 778, time: 1128m 53s (- 5m 13s), obj: 0.0222, grad: 0.2352
+Iter 24885 of 25000, epoch 778, time: 1128m 56s (- 5m 10s), obj: 0.0046, grad: 0.0223
+Iter 24886 of 25000, epoch 778, time: 1128m 59s (- 5m 7s), obj: 0.0050, grad: 0.0277
+Iter 24887 of 25000, epoch 778, time: 1129m 2s (- 5m 4s), obj: 0.0048, grad: 0.0308
+Iter 24888 of 25000, epoch 778, time: 1129m 4s (- 5m 2s), obj: 0.0035, grad: 0.0807
+Iter 24889 of 25000, epoch 778, time: 1129m 7s (- 4m 59s), obj: 0.0040, grad: 0.0055
+Iter 24890 of 25000, epoch 778, time: 1129m 10s (- 4m 56s), obj: 0.0011, grad: 0.0065
+Iter 24891 of 25000, epoch 778, time: 1129m 12s (- 4m 53s), obj: 0.0031, grad: 0.0047
+Iter 24892 of 25000, epoch 778, time: 1129m 16s (- 4m 51s), obj: 0.0051, grad: 0.0194
+Iter 24893 of 25000, epoch 778, time: 1129m 18s (- 4m 48s), obj: 0.0805, grad: 0.2279
+Iter 24894 of 25000, epoch 778, time: 1129m 22s (- 4m 45s), obj: 0.0026, grad: 0.0331
+Iter 24895 of 25000, epoch 778, time: 1129m 24s (- 4m 43s), obj: 0.0039, grad: 0.0393
+Iter 24896 of 25000, epoch 779, time: 1129m 27s (- 4m 40s), obj: 0.0109, grad: 0.2366
+Iter 24897 of 25000, epoch 779, time: 1129m 30s (- 4m 37s), obj: 0.0033, grad: 0.0386
+Iter 24898 of 25000, epoch 779, time: 1129m 33s (- 4m 34s), obj: 0.0019, grad: 0.0175
+Iter 24899 of 25000, epoch 779, time: 1129m 36s (- 4m 32s), obj: 0.0032, grad: 0.0368
+Evaluation on nmt-train: 1500 items, 26362 tokens
+Hamming = 0.0000, Seq = 0.0000, Log loss = 0.0583, Train loss (bleu-smoothed): 0.0000, BLEU = 1.0000, Eval time: 2.0s
+Evaluation on nmt-valid: 1406 items, 25309 tokens
+Hamming = 1.1223, Seq = 1.0000, Log loss = 0.1584, Train loss (bleu-smoothed): 0.9489, BLEU = 0.0021, Eval time: 1.9s
+Saving checkpoint /home/mila/c/chris.emezue/scratch/searnn-output/fr-ewe-l2s/checkpoint_iter_24900.pth
+Iter 24900 of 25000, epoch 779, time: 1129m 43s (- 4m 29s), obj: 0.0027, grad: 0.0135
+Iter 24901 of 25000, epoch 779, time: 1129m 46s (- 4m 26s), obj: 0.0030, grad: 0.0195
+Iter 24902 of 25000, epoch 779, time: 1129m 49s (- 4m 24s), obj: 0.0030, grad: 0.0107
+Iter 24903 of 25000, epoch 779, time: 1129m 52s (- 4m 21s), obj: 0.0032, grad: 0.0047
+Iter 24904 of 25000, epoch 779, time: 1129m 54s (- 4m 18s), obj: 0.0037, grad: 0.0065
+Iter 24905 of 25000, epoch 779, time: 1129m 57s (- 4m 15s), obj: 0.0021, grad: 0.0101
+Iter 24906 of 25000, epoch 779, time: 1130m 0s (- 4m 13s), obj: 0.0049, grad: 0.0563
+Iter 24907 of 25000, epoch 779, time: 1130m 0s (- 4m 10s), obj: 0.0007, grad: 0.0065
+Iter 24908 of 25000, epoch 779, time: 1130m 3s (- 4m 7s), obj: 0.0040, grad: 0.0408
+Iter 24909 of 25000, epoch 779, time: 1130m 6s (- 4m 4s), obj: 0.0027, grad: 0.0182
+Iter 24910 of 25000, epoch 779, time: 1130m 9s (- 4m 2s), obj: 0.0028, grad: 0.0078
+Iter 24911 of 25000, epoch 779, time: 1130m 11s (- 3m 59s), obj: 0.0043, grad: 0.0321
+Iter 24912 of 25000, epoch 779, time: 1130m 14s (- 3m 56s), obj: 0.0041, grad: 0.0293
+Iter 24913 of 25000, epoch 779, time: 1130m 17s (- 3m 54s), obj: 0.0037, grad: 0.0665
+Iter 24914 of 25000, epoch 779, time: 1130m 20s (- 3m 51s), obj: 0.0015, grad: 0.0178
+Iter 24915 of 25000, epoch 779, time: 1130m 23s (- 3m 48s), obj: 0.0046, grad: 0.0466
+Iter 24916 of 25000, epoch 779, time: 1130m 25s (- 3m 45s), obj: 0.0044, grad: 0.0187
+Iter 24917 of 25000, epoch 779, time: 1130m 29s (- 3m 43s), obj: 0.0052, grad: 0.0134
+Iter 24918 of 25000, epoch 779, time: 1130m 31s (- 3m 40s), obj: 0.0024, grad: 0.0667
+Iter 24919 of 25000, epoch 779, time: 1130m 34s (- 3m 37s), obj: 0.0049, grad: 0.0055
+Iter 24920 of 25000, epoch 779, time: 1130m 37s (- 3m 35s), obj: 0.0033, grad: 0.0802
+Iter 24921 of 25000, epoch 779, time: 1130m 40s (- 3m 32s), obj: 0.0012, grad: 0.0186
+Iter 24922 of 25000, epoch 779, time: 1130m 43s (- 3m 29s), obj: 0.0024, grad: 0.0043
+Iter 24923 of 25000, epoch 779, time: 1130m 46s (- 3m 26s), obj: 0.0073, grad: 0.1202
+Iter 24924 of 25000, epoch 779, time: 1130m 48s (- 3m 24s), obj: 0.0041, grad: 0.0266
+Iter 24925 of 25000, epoch 779, time: 1130m 52s (- 3m 21s), obj: 0.0040, grad: 0.0208
+Iter 24926 of 25000, epoch 779, time: 1130m 54s (- 3m 18s), obj: 0.0026, grad: 0.0082
+Iter 24927 of 25000, epoch 779, time: 1130m 57s (- 3m 15s), obj: 0.0064, grad: 0.1418
+Iter 24928 of 25000, epoch 780, time: 1130m 59s (- 3m 13s), obj: 0.0008, grad: 0.0046
+Iter 24929 of 25000, epoch 780, time: 1131m 2s (- 3m 10s), obj: 0.0015, grad: 0.0151
+Iter 24930 of 25000, epoch 780, time: 1131m 5s (- 3m 7s), obj: 0.0039, grad: 0.0091
+Iter 24931 of 25000, epoch 780, time: 1131m 8s (- 3m 5s), obj: 0.0046, grad: 0.0114
+Iter 24932 of 25000, epoch 780, time: 1131m 11s (- 3m 2s), obj: 0.0067, grad: 0.0125
+Iter 24933 of 25000, epoch 780, time: 1131m 14s (- 2m 59s), obj: 0.0075, grad: 0.0206
+Iter 24934 of 25000, epoch 780, time: 1131m 17s (- 2m 56s), obj: 0.0026, grad: 0.0222
+Iter 24935 of 25000, epoch 780, time: 1131m 20s (- 2m 54s), obj: 0.0042, grad: 0.0151
+Iter 24936 of 25000, epoch 780, time: 1131m 23s (- 2m 51s), obj: 0.0064, grad: 0.1115
+Iter 24937 of 25000, epoch 780, time: 1131m 26s (- 2m 48s), obj: 0.0078, grad: 0.0173
+Iter 24938 of 25000, epoch 780, time: 1131m 28s (- 2m 46s), obj: 0.0056, grad: 0.1333
+Iter 24939 of 25000, epoch 780, time: 1131m 30s (- 2m 43s), obj: 0.0020, grad: 0.0113
+Iter 24940 of 25000, epoch 780, time: 1131m 33s (- 2m 40s), obj: 0.0028, grad: 0.1252
+Iter 24941 of 25000, epoch 780, time: 1131m 36s (- 2m 37s), obj: 0.0082, grad: 0.1299
+Iter 24942 of 25000, epoch 780, time: 1131m 39s (- 2m 35s), obj: 0.0026, grad: 0.0059
+Iter 24943 of 25000, epoch 780, time: 1131m 42s (- 2m 32s), obj: 0.0051, grad: 0.0595
+Iter 24944 of 25000, epoch 780, time: 1131m 45s (- 2m 29s), obj: 0.0017, grad: 0.0156
+Iter 24945 of 25000, epoch 780, time: 1131m 48s (- 2m 26s), obj: 0.0025, grad: 0.0097
+Iter 24946 of 25000, epoch 780, time: 1131m 50s (- 2m 24s), obj: 0.0024, grad: 0.0263
+Iter 24947 of 25000, epoch 780, time: 1131m 53s (- 2m 21s), obj: 0.0019, grad: 0.0074
+Iter 24948 of 25000, epoch 780, time: 1131m 53s (- 2m 18s), obj: 0.0013, grad: 0.0684
+Iter 24949 of 25000, epoch 780, time: 1131m 57s (- 2m 16s), obj: 0.0041, grad: 0.0117
+Iter 24950 of 25000, epoch 780, time: 1131m 59s (- 2m 13s), obj: 0.0015, grad: 0.0086
+Iter 24951 of 25000, epoch 780, time: 1132m 2s (- 2m 10s), obj: 0.0284, grad: 0.1486
+Iter 24952 of 25000, epoch 780, time: 1132m 5s (- 2m 7s), obj: 0.0030, grad: 0.0428
+Iter 24953 of 25000, epoch 780, time: 1132m 8s (- 2m 5s), obj: 0.0048, grad: 0.0985
+Iter 24954 of 25000, epoch 780, time: 1132m 11s (- 2m 2s), obj: 0.0028, grad: 0.0377
+Iter 24955 of 25000, epoch 780, time: 1132m 14s (- 1m 59s), obj: 0.0015, grad: 0.0038
+Iter 24956 of 25000, epoch 780, time: 1132m 16s (- 1m 57s), obj: 0.0009, grad: 0.0027
+Iter 24957 of 25000, epoch 780, time: 1132m 19s (- 1m 54s), obj: 0.0034, grad: 0.0335
+Iter 24958 of 25000, epoch 780, time: 1132m 22s (- 1m 51s), obj: 0.0028, grad: 0.0259
+Iter 24959 of 25000, epoch 780, time: 1132m 25s (- 1m 48s), obj: 0.0029, grad: 0.0188
+Iter 24960 of 25000, epoch 781, time: 1132m 28s (- 1m 46s), obj: 0.0027, grad: 0.0544
+Iter 24961 of 25000, epoch 781, time: 1132m 31s (- 1m 43s), obj: 0.0024, grad: 0.0324
+Iter 24962 of 25000, epoch 781, time: 1132m 33s (- 1m 40s), obj: 0.0028, grad: 0.0143
+Iter 24963 of 25000, epoch 781, time: 1132m 36s (- 1m 37s), obj: 0.0030, grad: 0.0135
+Iter 24964 of 25000, epoch 781, time: 1132m 39s (- 1m 35s), obj: 0.0050, grad: 0.1045
+Iter 24965 of 25000, epoch 781, time: 1132m 42s (- 1m 32s), obj: 0.0046, grad: 0.0106
+Iter 24966 of 25000, epoch 781, time: 1132m 45s (- 1m 29s), obj: 0.0023, grad: 0.0065
+Iter 24967 of 25000, epoch 781, time: 1132m 48s (- 1m 27s), obj: 0.0020, grad: 0.0119
+Iter 24968 of 25000, epoch 781, time: 1132m 51s (- 1m 24s), obj: 0.0060, grad: 0.0245
+Iter 24969 of 25000, epoch 781, time: 1132m 54s (- 1m 21s), obj: 0.0036, grad: 0.0097
+Iter 24970 of 25000, epoch 781, time: 1132m 56s (- 1m 18s), obj: 0.0038, grad: 0.0201
+Iter 24971 of 25000, epoch 781, time: 1132m 59s (- 1m 16s), obj: 0.0055, grad: 0.1591
+Iter 24972 of 25000, epoch 781, time: 1133m 2s (- 1m 13s), obj: 0.0026, grad: 0.0039
+Iter 24973 of 25000, epoch 781, time: 1133m 5s (- 1m 10s), obj: 0.0081, grad: 0.0277
+Iter 24974 of 25000, epoch 781, time: 1133m 8s (- 1m 8s), obj: 0.0029, grad: 0.0164
+Iter 24975 of 25000, epoch 781, time: 1133m 11s (- 1m 5s), obj: 0.0023, grad: 0.0295
+Iter 24976 of 25000, epoch 781, time: 1133m 11s (- 1m 2s), obj: 0.0031, grad: 0.0674
+Iter 24977 of 25000, epoch 781, time: 1133m 14s (- 0m 59s), obj: 0.0035, grad: 0.0116
+Iter 24978 of 25000, epoch 781, time: 1133m 17s (- 0m 57s), obj: 0.0022, grad: 0.0088
+Iter 24979 of 25000, epoch 781, time: 1133m 20s (- 0m 54s), obj: 0.0019, grad: 0.0090
+Iter 24980 of 25000, epoch 781, time: 1133m 22s (- 0m 51s), obj: 0.0017, grad: 0.0040
+Iter 24981 of 25000, epoch 781, time: 1133m 25s (- 0m 48s), obj: 0.0040, grad: 0.0058
+Iter 24982 of 25000, epoch 781, time: 1133m 28s (- 0m 46s), obj: 0.0035, grad: 0.0064
+Iter 24983 of 25000, epoch 781, time: 1133m 31s (- 0m 43s), obj: 0.0054, grad: 0.1042
+Iter 24984 of 25000, epoch 781, time: 1133m 33s (- 0m 40s), obj: 0.0022, grad: 0.0068
+Iter 24985 of 25000, epoch 781, time: 1133m 36s (- 0m 38s), obj: 0.0037, grad: 0.0841
+Iter 24986 of 25000, epoch 781, time: 1133m 39s (- 0m 35s), obj: 0.0093, grad: 0.1767
+Iter 24987 of 25000, epoch 781, time: 1133m 42s (- 0m 32s), obj: 0.0027, grad: 0.0087
+Iter 24988 of 25000, epoch 781, time: 1133m 45s (- 0m 29s), obj: 0.0070, grad: 0.1343
+Iter 24989 of 25000, epoch 781, time: 1133m 48s (- 0m 27s), obj: 0.0044, grad: 0.1004
+Iter 24990 of 25000, epoch 781, time: 1133m 50s (- 0m 24s), obj: 0.0038, grad: 0.0181
+Iter 24991 of 25000, epoch 781, time: 1133m 53s (- 0m 21s), obj: 0.0056, grad: 0.1067
+Iter 24992 of 25000, epoch 782, time: 1133m 57s (- 0m 19s), obj: 0.0077, grad: 0.0133
+Iter 24993 of 25000, epoch 782, time: 1134m 0s (- 0m 16s), obj: 0.0029, grad: 0.0420
+Iter 24994 of 25000, epoch 782, time: 1134m 3s (- 0m 13s), obj: 0.0031, grad: 0.0070
+Iter 24995 of 25000, epoch 782, time: 1134m 5s (- 0m 10s), obj: 0.0025, grad: 0.0047
+Iter 24996 of 25000, epoch 782, time: 1134m 8s (- 0m 8s), obj: 0.0016, grad: 0.0076
+Iter 24997 of 25000, epoch 782, time: 1134m 11s (- 0m 5s), obj: 0.0025, grad: 0.0335
+Iter 24998 of 25000, epoch 782, time: 1134m 14s (- 0m 2s), obj: 0.0024, grad: 0.0195
+Iter 24999 of 25000, epoch 782, time: 1134m 17s (- 0m 0s), obj: 0.0035, grad: 0.0079
+Evaluation on nmt-train: 1500 items, 26362 tokens
+Hamming = 0.0000, Seq = 0.0000, Log loss = 0.0694, Train loss (bleu-smoothed): 0.0000, BLEU = 1.0000, Eval time: 2.0s
+Evaluation on nmt-valid: 1406 items, 25309 tokens
+Hamming = 1.1066, Seq = 1.0000, Log loss = 0.1580, Train loss (bleu-smoothed): 0.9487, BLEU = 0.0017, Eval time: 1.8s
+Evaluation on nmt-train: 1500 items, 26362 tokens
+Hamming = 0.0000, Seq = 0.0000, Log loss = 0.0694, Train loss (bleu-smoothed): 0.0000, BLEU = 1.0000, Eval time: 2.0s
+Evaluation on nmt-valid: 1406 items, 25309 tokens
+Hamming = 1.1066, Seq = 1.0000, Log loss = 0.1580, Train loss (bleu-smoothed): 0.9487, BLEU = 0.0017, Eval time: 1.9s
+Saving checkpoint /home/mila/c/chris.emezue/scratch/searnn-output/fr-ewe-l2s/checkpoint_iter_25000.pth
+
+======== GPU REPORT ========
+
+==============NVSMI LOG==============
+
+Timestamp                                 : Mon Apr 29 22:24:13 2024
+Driver Version                            : 535.161.08
+CUDA Version                              : 12.2
+
+Attached GPUs                             : 1
+GPU 00000000:07:00.0
+    Accounting Mode                       : Enabled
+    Accounting Mode Buffer Size           : 4000
+    Accounted Processes
+        Process ID                        : 3369079
+            GPU Utilization               : 48 %
+            Memory Utilization            : 15 %
+            Max memory usage              : 3730 MiB
+            Time                          : 68069911 ms
+            Is Running                    : 0
+
+Mon Apr 29 22:24:13 2024       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 535.161.08             Driver Version: 535.161.08   CUDA Version: 12.2     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  Tesla V100-SXM2-32GB-LS        On  | 00000000:07:00.0 Off |                    0 |
+| N/A   44C    P0              75W / 163W |      0MiB / 32768MiB |     44%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
